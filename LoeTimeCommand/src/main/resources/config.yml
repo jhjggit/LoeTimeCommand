@@ -1,0 +1,7 @@
+Tasks:
+  test1:
+    #暂时实现linux中corn的具体某个时间执行任务
+    # s m h d
+    excuteTime: "*1**"
+    command: "say 你好!"
+    toObject: "all"

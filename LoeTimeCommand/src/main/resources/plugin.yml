@@ -1,0 +1,9 @@
+name: LoeTimeCommand
+version: '${project.version}'
+main: loetimecommand.loetimecommand.LoeTimeCommand
+prefix: [ LoeTimeCommand ]
+authors: [ Loe ]
+description: 对所有玩家定时执行某个具体的命令
+commands:
+  ltc:
+
